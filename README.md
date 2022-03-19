@@ -1,1 +1,1 @@
-# Chapter7-object-oriented-3
+# 디자이 패턴 part3
